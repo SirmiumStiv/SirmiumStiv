@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirmiumStiv
-- 👀 I’m interested in having barbiques and stews with friends and family
+- 👀 I’m interested in having barbeques and stews with friends and family
 - 🌱 I’m currently learning javascript on my own with youtube and other tutorials
 - 💞️ I’m looking to collaborate on my wifes business site
 - 📫 How to reach me ... still loading ...
